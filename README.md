@@ -1,17 +1,6 @@
-## Deskripsi
+== TUGAS FINAL PROJECT PEMROGRAMAN MOBILE 2020 ==
 
-_Project_ __Movie Catalogue__ adalah _submission project_ untuk kelas [__Dicoding - Menjadi Android Developer Expert__](https://www.dicoding.com/academies/14/). Repository ini berisi _source code_ utuh dari _submission_ awal sampai _submission_ final. 
-Repository ini juga memiliki _branch_ untuk masing-masing submission.
-
-## Tampilan aplikasi
-
-<img src="./screenshots/main.gif">
-
-## Fitur
-
-- [x] Widget
-- [x] Search
-- [x] Content Provider
-- [x] Localization
-- [x] Notification
-- [x] Local storage
+TUGAS KEL :
+ALTYA YOGA BAJRAH     => 17.11.0949
+DANDY APVIANO         => 17.11.0950
+RIZKY WAHYU F.        => 17.11.0984
